@@ -9,6 +9,7 @@ pymysql = "*"
 cx-oracle = "*"
 django-rest-framework = "*"
 djangorestframework = "*"
+drf-nested-routers = "*"
 
 [dev-packages]
 
